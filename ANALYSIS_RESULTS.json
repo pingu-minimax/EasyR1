@@ -1,7 +1,7 @@
 {
-  "target_commit_sha": "52ba694ab5185a967d64801681961501468e6ed8",
+  "target_commit_sha": "098931530606d22f867fd121b1dcb3225a43661f",
   "commit_author": "hiyouga",
-  "commit_date": "2025-07-14",
+  "commit_date": "2025-08-08",
   "parameter_changes": {
     "micro_batch_size_per_device_for_update": {
       "before": 4,
@@ -14,5 +14,5 @@
       "line_number": 37
     }
   },
-  "related_issue_number_list": [6, 9, 24, 27, 30, 39, 46]
+  "related_issue_number_list": [6, 9, 30, 39, 46]
 }
